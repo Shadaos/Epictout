@@ -3,4 +3,5 @@
     android:layout_width="240dp"
     android:layout_height="wrap_content"
     android:text="New Text"
+    android:textColor="#FFFFFF"
     android:id="@+id/textView"/>
